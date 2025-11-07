@@ -1,2 +1,3 @@
 # DESRES_snippet
-Code snippet for Dynamic Memory Allocator (from CMU 15-213 Malloc Lab)
+Code snippet for Dynamic Memory Allocator (from CMU 15-213 Malloc Lab).
+See mm.c for my code!
